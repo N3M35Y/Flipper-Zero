@@ -1,0 +1,12 @@
+REM     Title: Simple Powershell
+
+REM     Author: N3M35Y
+
+REM     Description: This payload open a simple powershell terminal
+
+REM     Target: Windows 10, 11
+
+GUI r
+DELAY 500
+STRING powershell 
+ENTER
